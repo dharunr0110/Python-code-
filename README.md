@@ -7,4 +7,4 @@ def fibonacci(n):
     return sequence
 
 # Example: Generate first 10 Fibonacci numbers
-print(f
+print(fibonacci(10))
